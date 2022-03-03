@@ -3,5 +3,5 @@ Our app is a budget tracker with text recognition. It is able to automatically a
 
 Demo video link: https://www.youtube.com/watch?v=MMdUgAFd7K0
 
-Poster link: https://user-images.githubusercontent.com/66296940/156582530-0906b5dd-9ecd-4fda-ba04-70139adf2c5c.png
+Poster link: https://drive.google.com/drive/folders/1qa8zSmmnarlJ73hJFFT4sFlsVpcApcFz
 
